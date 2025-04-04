@@ -13,7 +13,7 @@ int main() {
     int yearInt;
 
     // Ask for year, set vars to it
-    std::cout << "Please enter your age: ";
+    std::cout << "Please enter a year: ";
     std::cin >> yearString;
 
     // try catch converting string to int to prevent errors
